@@ -1,0 +1,71 @@
+QUESTIONS THAT I THINK I SHOULD SOLVE AGAIN
+
+max_sum_contiguous_sub_array.cpp [divide and conquer method + kadane's algorithm]
+largest_number.cpp
+repeat_and_missing_array.cpp
+spiral_order_matrix_1.cpp
+set_matrix_zeros.cpp
+excel_column_number.cpp
+excel_row_number.cpp
+rotated_array.cpp
+rotated_sorted_array_search.cpp
+integer_to_roman.cpp
+KMP_algorithm -> did from g4g  -> IMP
+3_sum.cpp
+reverse_integer.cpp
+merge_intervals.cpp
+diffk_2.cpp
+reorder_list.cpp
+container_with_most_water.cpp
+power_of_2.cpp
+max_continuous_series_of_1s.cpp
+first_missing_integer.cpp
+rotate_matrix.cpp
+implement_power_function.cpp
+maximum_unsorted_subarray.cpp
+list_cycle.cpp
+min_stack.cpp
+nearest_smaller_element.cpp
+n-3_repeated_number.cpp     [general case is n/k repeated number]
+sliding_window_max.cpp      [while doing this, also think about how to solve for sliding_window_min]
+identical_binary_trees.cpp
+sorted_array_balanced_bst.cpp
+construct_binary_tree_from_inorder_and_preorder.cpp
+path_sum.cpp
+max_distance.cpp
+allocate_books.cpp
+maximum_absolute_difference.cpp
+hotel_bookings_possible.cpp
+min_xor_value.cpp
+different_bits_sum_pairwise.cpp
+diameter_of_binary_tree.cpp  -> G4G
+balanced_binary_tree.cpp
+sum_tree -> G4G
+vertical_order_traversal_of_binary_tree.cpp (G4G and IB)
+construct_tree_from_inorder_and_levelorder.cpp  -> G4G
+single_number_2.cpp
+largest_rectangle_in_histogram.cpp
+valid_binary_search_tree.cpp
+find_subarray_with_given_sum.cpp   -->G4G
+number_following_a_pattern.cpp   -> G4G
+sort_a_stack_using_recursion.cpp  ->G4G
+sort_a_stack_using_temporary_array.cpp   -> G4G
+flatten_binary_tree_to_linked_list.cpp
+binary_tree_to_dll.cpp   --> G4G
+binary_tree_to_cdll.cpp   --> G4G
+binary_tree_inorder_traversal(morris_traversal).cpp   --> Leetcode
+decode_string.cpp  	-> Leetcode
+longest_valid_paranthesis.cpp  -> Leetcode
+string_search_with_null_entries.cpp  -> Algos
+maximum_product_subarray.cpp ->G4G
+multiply_strings.cpp
+copy_list.cpp
+simplify_directory_path.cpp
+longest_palindromic_substring.cpp
+
+int Q;
+	cin>>Q;
+	while(Q>0){
+
+	    Q--;
+	}

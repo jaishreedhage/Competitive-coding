@@ -1,0 +1,29 @@
+https://vikyding.gitbooks.io/google-interview-questions-in-leetcode/content/
+
+https://knaidu.gitbooks.io/problem-solving/content/primitive_types/reverse_bits.html
+
+https://people.cs.clemson.edu/~bcdean/dp_practice/
+
+https://discuss.leetcode.com/topic/50315/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
+
+https://a2oj.com/Category.jsp?ID=96
+
+https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/
+
+Number of Islands
+Serialize and Deserialize Binary Tree
+Merge k Sorted Lists
+Minimum Window Substring
+Maximal Rectangle
+Remove Invalid Parentheses
+Binary Search Tree Iterator
+Binary Tree Paths
+Increasing Triplet Subsequence
+Word Ladder
+Combination Sum IV
+Word Break
+Word Search
+Minimum Size Subarray Sum
+Clone Graph
+Split Array Largest Sum
+Course Schedule II
